@@ -1,0 +1,17 @@
+p {
+    color: blue;
+    font-size: 25px;
+}
+
+/* Así se hacen los comentarios en CSS*/
+/* Class - Tipo de formato para las etiquetas: 
+Tienes que agregar la clase dentro de la misma etiqueta del HTML y se nombra por medio de .+(nombre de clase de etiqueta)*/
+.parrafo {
+    color: red;
+}
+
+/* ID */
+#texto {
+    color: slategrey;
+    font-size: 18px;
+}
